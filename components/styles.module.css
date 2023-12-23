@@ -205,7 +205,7 @@
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .githubCorner:hover .octoArm {
     animation: none;
   }

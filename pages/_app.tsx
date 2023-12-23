@@ -13,7 +13,8 @@ import 'prismjs/themes/prism-coy.css'
 import 'react-notion-x/src/styles.css'
 import 'styles/global.css'
 // this might be better for dark mode
-// import 'prismjs/themes/prism-okaidia.css'
+import 'prismjs/themes/prism-okaidia.css'
+import 'prismjs/themes/prism-tomorrow.css'
 // global style overrides for notion
 import 'styles/notion.css'
 // global style overrides for prism theme (optional)

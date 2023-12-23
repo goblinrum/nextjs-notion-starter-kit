@@ -9,6 +9,7 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
+            <script defer data-domain="yutengma.me" src="https://wednesdays.ddns.net/js/script.js"></script>
             <link rel='shortcut icon' href='/44784975.jpg' />
             <link
               rel='icon'
