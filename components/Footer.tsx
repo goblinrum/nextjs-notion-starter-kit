@@ -9,6 +9,7 @@ import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
 import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
+import { SiSparkfun } from '@react-icons/all-files/si/SiSparkfun'
 
 import * as config from '@/lib/config'
 import { useDarkMode } from '@/lib/use-dark-mode'
@@ -109,6 +110,17 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <FaLinkedin />
+          </a>
+        )}
+
+        {config.fun && (
+          <a
+            className={styles.mastodon}
+            href={config.fun}
+            title={`For Fun`}
+            rel='me'
+          >
+            <SiSparkfun />
           </a>
         )}
 

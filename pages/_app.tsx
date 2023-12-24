@@ -19,6 +19,8 @@ import 'prismjs/themes/prism-tomorrow.css'
 import 'styles/notion.css'
 // global style overrides for prism theme (optional)
 import 'styles/prism-theme.css'
+// for dropdown views
+import 'rc-dropdown/assets/index.css'
 
 import { bootstrap } from '@/lib/bootstrap-client'
 import {

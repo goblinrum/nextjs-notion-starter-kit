@@ -20,6 +20,7 @@ export default siteConfig({
   // twitter: '',
   github: 'goblinrum',
   linkedin: 'ryan-ma-30',
+  fun: 'fun',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

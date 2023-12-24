@@ -15,10 +15,10 @@ export const Page404: React.FC<types.PageProps> = ({ site, pageId, error }) => {
 
       <div className={styles.container}>
         <main>
-          <h1 className="font-bold mx-auto text-3xl text-center md:text-5xl tracking-tight mb-4 text-black dark:text-white">
+          <h1 className={styles.heading}>
             451 – Something is burning and that is not good
           </h1>
-          <p className="text-gray-600 mx-auto dark:text-gray-400 mb-8">
+          <p>
             Enjoy a peaceful gif while you figure out where you were supposed to end up...
           </p>
 
