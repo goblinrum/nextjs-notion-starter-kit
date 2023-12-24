@@ -50,16 +50,24 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  // navigationStyle: 'default'
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: 'Work Experience',
+      pageId: 'e0dff3733e2041fc85919b22aade3355'
+    },
+    {
+      title: 'Academics',
+      pageId: '2c4871db33124351b7a68021cee5364b'
+    },
+    {
+      title: 'Teaching',
+      pageId: '15971fc3a4624db19c027c1a20d68037'
+    },
+    {
+      title: 'Extracurriculars',
+      pageId: '2686cfb52541433ea4a0ce704a33b3cd'
+    }
+  ]
 })
