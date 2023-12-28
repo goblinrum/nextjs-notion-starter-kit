@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "portfolio",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "Developing away at backends, databases and life. Exploring the world of systems, computer architecture, and microelectronics.",
+  "author": "goblinrum",
+  "repository": "",
   "license": "MIT",
   "engines": {
     "node": ">=16"
@@ -37,7 +37,7 @@
     "got": "^12.0.3",
     "isomorphic-unfetch": "^3.1.0",
     "lqip-modern": "^2.0.0",
-    "next": "12",
+    "next": "13.1.6",
     "notion-client": "^6.15.6",
     "notion-types": "^6.15.6",
     "notion-utils": "^6.15.6",

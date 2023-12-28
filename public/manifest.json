@@ -1,19 +1,19 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Ryan Ma",
+  "short_name": "Portfolio",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/44784975.jpg",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/44784975.jpg",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/44784975.jpg",
       "type": "image/png",
       "sizes": "192x192"
     }
