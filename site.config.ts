@@ -60,11 +60,11 @@ export default siteConfig({
     },
     {
       title: 'Projects',
-      pageId: '86674c8c778a4fae9045619080753c2d'
+      pageId: '8c149325107a4274b8f0c42c11d738fc'
     },
     {
       title: 'Blog',
-      pageId: '9c47eb6726c3404ead6b54fb3f2a8ea2'
+      pageId: '17d2fd66273b4721a4ec8025cdf6158c'
     },
   ]
 })
