@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
         <Html lang='en'>
           <Head>
             {/* <script defer data-domain="yutengma.me" src="https://wednesdays.ddns.net/js/script.js"></script> */}
-            <script defer src="https://analytics.wednesdays.me/script.js" data-website-id="64e6e4bd-a744-4c75-8e2b-9d42fe52cdab"></script>
+            <script defer src="https://umami.wednesdays.me/script.js" data-website-id="64e6e4bd-a744-4c75-8e2b-9d42fe52cdab"></script>
             <link rel='shortcut icon' href='/44784975.jpg' />
             <link
               rel='icon'
