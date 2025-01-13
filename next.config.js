@@ -32,7 +32,7 @@ module.exports = withBundleAnalyzer({
 
 const ContentSecurityPolicy = `
     default-src 'self';
-    script-src 'self' 'unsafe-eval' 'unsafe-inline' *.youtube.com *.twitter.com *wednesdays.ddns.net *.wednesdays.ddns.net https://wednesdays.ddns.net/js/script.js *.yutengma.me;
+    script-src 'self' 'unsafe-eval' 'unsafe-inline' *.youtube.com *.twitter.com *wednesdays.me *.wednesdays.me https://wednesdays.me/js/script.js *.yutengma.me;
     child-src *.youtube.com *.google.com *.twitter.com;
     style-src 'self' 'unsafe-inline' *.googleapis.com;
     img-src * blob: data:;
